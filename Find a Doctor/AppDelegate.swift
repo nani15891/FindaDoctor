@@ -20,6 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       //  IQKeyboardManager.sharedManager().enable = true
         IQKeyboardManager.shared.enable = true
         
+        print("Fuckkkk")
+        
         
         // Override point for customization after application launch.
         return true
